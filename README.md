@@ -1,5 +1,6 @@
 # Media_Data_Query
 Assignment Submission by Tarun M
+
 Queries to retrieve data from the media database.
 
 ## How to run it
